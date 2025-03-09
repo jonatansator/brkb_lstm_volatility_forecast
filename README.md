@@ -24,3 +24,6 @@
 ## Timeframe
 - **Input**: Uses all available data from `brkb.csv` (assumes historical data up to the latest date in the file).
 - **Output**: Forecasts realized volatility for the test period (20% of the dataset, post-training).
+
+## Screenshots
+![output](output.png)
